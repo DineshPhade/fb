@@ -4,11 +4,6 @@
         <classes>
             <class name="Runner.Fbrunner"/>
         </classes>
-
-
-
-
-
     </test>
 
 </suite>
